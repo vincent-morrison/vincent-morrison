@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vincent Morrison</h1>
-<h3 align="center">A software engineer from St. Louis.</h3>
+<h1 align="center">Hi, I'm Vincent Morrison</h1>
+<h3 align="center">A full stack software engineer from St. Louis.</h3>
 
-- 👨‍💻 All of my projects are available at [https://vincent-morrison.netlify.app/](https://vincent-morrison.netlify.app/)
+-  All of my projects are available to view at [https://vincent-morrison.netlify.app/](https://vincent-morrison.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
